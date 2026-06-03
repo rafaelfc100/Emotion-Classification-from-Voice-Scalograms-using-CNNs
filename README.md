@@ -101,11 +101,4 @@ Potential improvements include:
 * Residual architectures such as ResNet.
 * Advanced learning-rate schedulers.
 
-## Authors
 
-Universidad de Guanajuato – Deep Learning Course
-
-* Daniela Camacho Hernández
-* Rodrigo Fabián Cervantes Martínez
-* Rafael Alejandro Frías Cortez
-* Esteban Liedo Castellanos
